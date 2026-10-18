@@ -1,0 +1,69 @@
+{
+    "dataset_path": "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification",
+    "total_checked": 15515,
+    "valid_images": 15515,
+    "invalid_images_count": 0,
+    "class_results": {
+        "battery": {
+            "checked": 945,
+            "valid": 945,
+            "invalid": 0
+        },
+        "biological": {
+            "checked": 985,
+            "valid": 985,
+            "invalid": 0
+        },
+        "brown-glass": {
+            "checked": 607,
+            "valid": 607,
+            "invalid": 0
+        },
+        "cardboard": {
+            "checked": 891,
+            "valid": 891,
+            "invalid": 0
+        },
+        "clothes": {
+            "checked": 5325,
+            "valid": 5325,
+            "invalid": 0
+        },
+        "green-glass": {
+            "checked": 629,
+            "valid": 629,
+            "invalid": 0
+        },
+        "metal": {
+            "checked": 769,
+            "valid": 769,
+            "invalid": 0
+        },
+        "paper": {
+            "checked": 1050,
+            "valid": 1050,
+            "invalid": 0
+        },
+        "plastic": {
+            "checked": 865,
+            "valid": 865,
+            "invalid": 0
+        },
+        "shoes": {
+            "checked": 1977,
+            "valid": 1977,
+            "invalid": 0
+        },
+        "trash": {
+            "checked": 697,
+            "valid": 697,
+            "invalid": 0
+        },
+        "white-glass": {
+            "checked": 775,
+            "valid": 775,
+            "invalid": 0
+        }
+    },
+    "invalid_images": []
+}

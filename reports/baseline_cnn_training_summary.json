@@ -1,0 +1,23 @@
+{
+    "model": "Baseline CNN",
+    "classes": [
+        "battery",
+        "biological",
+        "brown-glass",
+        "cardboard",
+        "clothes",
+        "green-glass",
+        "metal",
+        "paper",
+        "plastic",
+        "shoes",
+        "trash",
+        "white-glass"
+    ],
+    "training_images": 10845,
+    "validation_images": 2324,
+    "epochs_completed": 15,
+    "best_epoch": 15,
+    "best_validation_accuracy": 0.6703958511352539,
+    "best_validation_loss": 1.0017555952072144
+}

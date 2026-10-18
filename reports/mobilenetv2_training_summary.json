@@ -1,0 +1,21 @@
+{
+    "model": "MobileNetV2",
+    "classes": [
+        "battery",
+        "biological",
+        "brown-glass",
+        "cardboard",
+        "clothes",
+        "green-glass",
+        "metal",
+        "paper",
+        "plastic",
+        "shoes",
+        "trash",
+        "white-glass"
+    ],
+    "training_images": 10845,
+    "validation_images": 2324,
+    "epochs_completed": 9,
+    "best_validation_accuracy": 0.9341652393341064
+}

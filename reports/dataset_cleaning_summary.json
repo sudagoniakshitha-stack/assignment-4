@@ -1,0 +1,21 @@
+{
+    "original_images": 15515,
+    "unique_image_contents": 15496,
+    "retained_images": 15493,
+    "excluded_images": 22,
+    "number_of_classes": 12,
+    "class_counts": {
+        "battery": 945,
+        "biological": 985,
+        "brown-glass": 607,
+        "cardboard": 891,
+        "clothes": 5324,
+        "green-glass": 614,
+        "metal": 768,
+        "paper": 1050,
+        "plastic": 863,
+        "shoes": 1977,
+        "trash": 697,
+        "white-glass": 772
+    }
+}

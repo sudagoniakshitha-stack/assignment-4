@@ -1,0 +1,81 @@
+{
+    "total_images": 15515,
+    "unique_image_contents": 15496,
+    "duplicate_groups": 18,
+    "files_in_duplicate_groups": 37,
+    "duplicates": [
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\clothes\\clothes2051.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\clothes\\clothes5234.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass231.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass530.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass285.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass555.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass292.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass443.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass336.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass554.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass349.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass461.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass388.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass459.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass403.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass564.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass413.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass517.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass563.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass422.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass482.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass424.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass561.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass449.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass565.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass471.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass544.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass476.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass492.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass583.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\green-glass\\green-glass592.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\metal\\metal459.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\white-glass\\white-glass412.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\plastic\\plastic159.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\white-glass\\white-glass129.jpg"
+        ],
+        [
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\plastic\\plastic556.jpg",
+            "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification\\white-glass\\white-glass761.jpg"
+        ]
+    ]
+}

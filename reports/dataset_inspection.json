@@ -1,0 +1,19 @@
+{
+    "dataset_path": "C:\\Users\\Sudagoni Akshitha\\OneDrive\\Desktop\\Garbage Image classification\\garbage_classification",
+    "number_of_classes": 12,
+    "total_images": 15515,
+    "class_image_counts": {
+        "battery": 945,
+        "biological": 985,
+        "brown-glass": 607,
+        "cardboard": 891,
+        "clothes": 5325,
+        "green-glass": 629,
+        "metal": 769,
+        "paper": 1050,
+        "plastic": 865,
+        "shoes": 1977,
+        "trash": 697,
+        "white-glass": 775
+    }
+}
